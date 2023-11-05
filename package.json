@@ -1,0 +1,21 @@
+{
+  "name": "booky-theme",
+  "displayName": "booky-theme",
+  "description": "Booky theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "booky",
+        "uiTheme": "vs",
+        "path": "./themes/booky-color-theme.json"
+      }
+    ]
+  }
+}
