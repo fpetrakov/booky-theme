@@ -1,6 +1,6 @@
 # booky-theme
 
-Color Palette:
+color palette:
 - #D4CCB9
 - #958B83
 - #5E5252
