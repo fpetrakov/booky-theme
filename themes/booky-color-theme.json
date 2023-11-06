@@ -10,15 +10,16 @@
 		"editor.selectionHighlightBackground": "#CFCFCF81",
 		"editor.selectionBackground": "#958b83",
 
-		"editorBracketHighlight.foreground1": "#45363B",
-		"editorBracketHighlight.foreground2": "#45363B",
-		"editorBracketHighlight.foreground3": "#45363B",
-		"editorBracketHighlight.foreground4": "#45363B",
-		"editorBracketHighlight.foreground5": "#45363B",
-		"editorBracketHighlight.foreground6": "#45363B",
+		"editorBracketHighlight.foreground1": "#5E5252",
+		"editorBracketHighlight.foreground2": "#5E5252",
+		"editorBracketHighlight.foreground3": "#5E5252",
+		"editorBracketHighlight.foreground4": "#5E5252",
+		"editorBracketHighlight.foreground5": "#5E5252",
+		"editorBracketHighlight.foreground6": "#5e5252",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#BD100D",
 
-		"editorLineNumber.foreground": "#9DA39A",
+		"editorLineNumber.foreground": "#98999C",
+		"editorLineNumber.activeForeground": "#5e5252",
 
 		"activityBar.background": "#D4CCB9",
 		"activityBar.foreground": "#45363B",
@@ -116,7 +117,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#45363B"
+				"foreground": "#5e5252"
 			}
 		},
 		{
